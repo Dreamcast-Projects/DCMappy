@@ -1,0 +1,2 @@
+If you want compile it yourself using Cygwin move this folder to C:\cygwin\usr\local\dc\kos\kos\utils 
+and replace older version files. Browse to the kmgenc folder using cygwin and type "make".
